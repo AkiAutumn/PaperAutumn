@@ -1,0 +1,55 @@
+name: Autumn
+version: x
+main: me.aki.paper_autumn.Main
+api-version: 1.19
+authors: [Aki]
+
+commands:
+  fly:
+    description: fly in survival
+  flyspeed:
+    description: change your fly speed
+  walkspeed:
+    description: change your walk speed
+  inviolability:
+    description: Make yourself invulnerable
+  heal:
+    description: heal yourself and others
+  balance:
+    description: Check your bank account boii
+  currency:
+    description: Set the Server's Currency
+  pay:
+    description: Pay something
+  warp:
+    description: Create warps
+  hide:
+    description: Make yourself invisible
+  world:
+    description: Manage Worlds
+  tab:
+    description: Edit Tablist texts
+  system:
+    description: Usage of system commands
+  sethome:
+    description: Set your home
+  home:
+    description: Teleport to your home
+  cancel:
+    description: Cancel your current Casino Game - in case you got stuck
+  e:
+    description: Do little emotes
+  shrug:
+    description: Send shrug message
+  msg:
+    description: DM's lol
+  colour:
+    description: Change your name colour in chat!
+  status:
+    description: Change your IC/OOC status
+  ticket:
+    description: Get help from operators
+  rc:
+    description:
+  portal:
+    description: Create and manage custom portals
